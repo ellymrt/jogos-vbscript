@@ -1,5 +1,5 @@
 # Jogos em VBScript
-Jogos criados em VBScript.
+Jogos desenvolvidos em VBScript para a disciplina de Sistemas da Informação.
 
 # Jogo do Adivinha
 Se baseia em você chutar números do intervalo de 1 a 50 até acertar, porém só existem cinco chances.
