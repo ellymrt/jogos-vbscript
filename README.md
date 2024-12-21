@@ -1,4 +1,4 @@
-# jogos-vbscript
+# Jogos em VBScript
 Jogos criados em VBScript para disciplina de Sistemas da Informação.
 
 # Jogo do Adivinha
